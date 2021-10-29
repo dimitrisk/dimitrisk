@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/dimitrisk"><img src="https://img.shields.io/github/followers/dimitrisk.svg?label=GitHub&style=for-the-badge&color=red" alt="GitHub"></a>
 	<!--<a href="https://github.com/sponsors/dimitrisk"><img src="https://img.shields.io/badge/-GitHub_Sponsors-555555?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>-->
-  <a href="https://www.buymeacoffee.com/dimitrisk"><img src="https://img.shields.io/badge/-Buy Me A Coffee-555555?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="buymeacoffee"></a>	
+  	
   <a href="https://twitter.com/dimitris_k"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.researchgate.net/profile/Dimitris_Kavroudakis"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href=" "><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href=" "><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
+  <a href="https://scholar.google.com/citations?user=dmbKZ48AAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.youtube.com/channel/UCvhse5zSUeR90ihqK5hWEcg"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
 - I am a computational geographer at [Greece](#) 
