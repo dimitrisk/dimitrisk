@@ -13,3 +13,8 @@
 - I create [R packages](#)
 - I write post on [my personal blog](#) and [the   with R blog](#)
 - I offer [workshops and consulting services](#)
+
+
+![dimitrisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrisk&count_private=true&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisk&layout=compact&theme=cobalt&hide=javascript,html,css,jupyter%20notebook)](https://github.com/dimitrisk/github-readme-stats)
