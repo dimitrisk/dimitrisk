@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@kavroudakis"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
-- I am a computational geographer at Lesvos island in Greece 
+- I'm an [Associate Professor](https://www.dimitrisk.gr) of Geographical Analysis, at University of the Aegean, Department of Geography at Lesvos island in Greece 
 - I mostly work on analysing and understanding of spatial patterns
 - I write papers and books
 - I create R packages
