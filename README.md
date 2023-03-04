@@ -7,12 +7,12 @@
   <a href="https://www.youtube.com/@kavroudakis"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
-- I am a computational geographer at Lesvos island in [Greece](#) 
+- I am a computational geographer at Lesvos island in Greece 
 - I mostly work on analysing and understanding of spatial patterns
-- I write [papers and books](#)
-- I create [R packages](#)
+- I write papers and books
+- I create R packages
 - I post on [Facebook](https://www.facebook.com/dimitris.kavroudakis), [Youtube](https://www.youtube.com/@kavroudakis)
-- I offer [workshops and consulting services](#)
+- I offer workshops and consulting services
 
 
 ![dimitrisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrisk&count_private=true&show_icons=true&theme=merko)
