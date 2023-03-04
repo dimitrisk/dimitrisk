@@ -4,14 +4,14 @@
 <a href="https://twitter.com/dimitris_k"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.researchgate.net/profile/Dimitris_Kavroudakis"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
   <a href="https://scholar.google.com/citations?user=dmbKZ48AAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.youtube.com/channel/UCvhse5zSUeR90ihqK5hWEcg"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
+  <a href="https://www.youtube.com/@kavroudakis"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
 
-- I am a computational geographer at [Greece](#) 
+- I am a computational geographer at Lesvos island in [Greece](#) 
 - I mostly work on analysing and understanding of spatial patterns
 - I write [papers and books](#)
 - I create [R packages](#)
-- I write post on [my personal blog](#) and [the   with R blog](#)
+- I post on [Facebook](https://www.facebook.com/dimitris.kavroudakis), [Youtube](https://www.youtube.com/@kavroudakis)
 - I offer [workshops and consulting services](#)
 
 
