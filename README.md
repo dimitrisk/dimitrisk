@@ -11,7 +11,7 @@
 - I mostly work on analysing and understanding of spatial patterns
 - I write papers and books
 - I create R packages
-- I post on [Facebook](https://www.facebook.com/dimitris.kavroudakis), [Youtube](https://www.youtube.com/@kavroudakis)
+- I post on [Facebook](https://www.facebook.com/dimitris.kavroudakis) and [Youtube](https://www.youtube.com/@kavroudakis)
 - I offer workshops and consulting services
 
 
