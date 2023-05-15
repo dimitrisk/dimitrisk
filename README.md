@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Dimitris+Kavroudakis....;Nice+to+meet+you!&center=true&size=20">
   </a></p>
  
-![Github stats](https://github-readme-stats.vercel.app/api?username=dimitrisk)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisk&layout=compact&langs_count=10)
 
  
  <table>
